@@ -1,0 +1,68 @@
+ header {
+    background-color: #4cc2b2;
+    color: rgb(235, 235, 235);
+    padding: 8px;
+    text-align: justify;
+  }
+
+   header h1 {
+    display: center;
+    text-align: left;
+    justify-content: center;
+    margin-left: 150px;
+   font-size: 1.8rem;
+   margin-top: 1%;
+   margin-bottom: 10px;
+  }
+
+  header div {
+  text-align: right;
+  margin-right: 150px;
+  font-size: 1.3rem;
+  height: 50px;
+  
+ } 
+ nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  } 
+  
+   nav a {
+    color: rgb(255, 252, 252);
+    margin: 0 15px;
+    text-decoration: underline;
+    margin-bottom: 20px; 
+    width: 50px;
+  }
+/*   
+  nav a:hover {
+    text-decoration: underline;
+  }   */
+ 
+  /* .icon-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+} */
+/* 
+.icon-container a {
+    display: inline-block;
+    width: 50px;
+}
+
+.icon-container img {
+    width: 100%;
+    height: auto;
+} */
+
+
+.logo-name {
+    position: relative;
+    margin-top: -20%;
+    left: 55%;
+    width: 500px;
+    height: auto; 
+}

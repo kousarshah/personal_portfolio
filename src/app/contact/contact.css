@@ -1,0 +1,106 @@
+.heading1 {
+    border: 4px solid black;
+    width: 14%;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-size: 3rem;
+    margin-top: 10%;
+    margin: 6% auto 0; 
+    margin-left: 42%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form-group1{
+    position: relative;
+    margin-left: 37%;
+    margin-top: 7%;
+
+}
+.form-input1 {
+    width: 35%;
+    background-color: #ece4e4;
+    height: 35px;
+    border: none; 
+    border-left: 3px solid #bd6060; 
+    border-bottom: 3px solid #df9292; 
+    padding: 8px; 
+    outline: none; 
+}
+
+.form-input1::placeholder{ 
+    
+    color: black;
+    
+}
+.form-group2{
+    position: relative;
+    margin-left: 37%;
+    margin-top: 2%;
+}
+.form-input2{
+    background-color: #D7D7D7;
+    width: 35%;
+    height: 35px;
+    border: none;  
+    border-left: 3px solid #bd6060;
+    border-bottom: 3px solid  #df9292; 
+    padding: 6px;
+    outline: none; 
+    position: relative;
+    margin-top: -26%;
+}
+.form-input2::placeholder{ 
+    
+    color: rgb(5, 5, 5);
+    
+}
+
+.form-group3{
+    position: relative;
+    margin-left: 37%;
+    margin-top: 2%;
+}
+.form-input3{
+    background-color:  #D7D7D7;
+    width: 35%;
+    height: 35px;
+    border: none; 
+    border-left: 3px solid #bd6060; 
+    border-bottom: 3px solid  #df9292; 
+    padding: 8px; 
+    outline: none; 
+}
+.form-input3::placeholder{ 
+   
+    color: black;
+    
+}
+.contact-button {
+    position: relative;
+    margin-top: 5%; 
+    border: 1px solid rgb(19, 18, 18);
+    border: none;
+    border-left: 3px solid #1525b1;
+    border-right: 3px solid #1525b1;
+  position: relative;
+  margin-left: 45%;
+  width: 5%;
+ 
+}
+
+.line {
+    width: 2px; 
+    height: 45px; 
+    background-color: black; 
+}
+.feel-para{
+   
+    font-size: 1.3rem;
+    margin-top: 1.5%;
+    margin-left: 43%;
+    font-family: 'Arvo', sans-serif;
+}
